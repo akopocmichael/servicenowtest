@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="9f293d44dbe243002d6e771ebf9619d4" sys_domain="global" table="x_109418_test2_test2" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-15 17:41:33</sys_created_on>
+            <sys_id>2279fd44dbe243002d6e771ebf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_109418_test2_test2" sys_domain="global" view="Default view">9f293d44dbe243002d6e771ebf9619d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-15 17:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_109418_test2_test2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-15 17:40:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f293d44dbe243002d6e771ebf9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_109418_test2_test2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="test2" source="x_109418_test2">6088b104dbe243002d6e771ebf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test2">6088b104dbe243002d6e771ebf9619ef</sys_scope>
+            <sys_update_name>sys_ui_section_9f293d44dbe243002d6e771ebf9619d4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-15 17:40:14</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

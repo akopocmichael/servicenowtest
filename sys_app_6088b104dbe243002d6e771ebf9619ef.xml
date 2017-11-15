@@ -11,7 +11,7 @@
         <name>test2</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
-        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <runtime_access_tracking>enforcing</runtime_access_tracking>
         <scope>x_109418_test2</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
@@ -23,9 +23,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-11-15 17:37:20</sys_created_on>
         <sys_id>6088b104dbe243002d6e771ebf9619ef</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-11-15 17:37:20</sys_updated_on>
+        <sys_updated_on>2017-11-15 17:41:04</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
